@@ -144,7 +144,7 @@ This project is part of my learning journey and portfolio building.
 
 LinkedIn: https://www.linkedin.com/in/adityajaiswal25
 
-GitHub: https://github.com/
+GitHub: https://github.com/adityajaiswal25
 <your-username>
 
 ⭐ Support
